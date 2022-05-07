@@ -1,0 +1,38 @@
+{
+  "name": "memgo",
+  "version": "0.0.0",
+  "description": "An in-memory MongoDB Data API, primarily useful for integration test suites.",
+  "type": "module",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "eslint bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/memgo.git"
+  },
+  "keywords": [
+    "mongodb",
+    "data api",
+    "testing",
+    "memory"
+  ],
+  "author": {
+    "name": "Tobias Davis",
+    "email": "tobias@davistobias.com",
+    "url": "https://davistobias.com"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/memgo/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/memgo",
+  "devDependencies": {
+    "@saibotsivad/eslint-config-saibotsivad": "*"
+  },
+  "dependencies": {
+    "mongodb-local-data-api": "^0.1.0",
+    "mongodb-memory-server": "^8.5.2",
+    "sade": "^1.8.1"
+  }
+}
