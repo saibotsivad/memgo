@@ -1,8 +1,6 @@
 # Memgo
 
-An in-memory MongoDB Data API.
-
-This is primarily meant for integration test suites.
+An in-memory MongoDB Data API, useful for integration test suites.
 
 ## Install
 

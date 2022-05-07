@@ -1,7 +1,7 @@
 {
   "name": "memgo",
   "version": "1.0.0",
-  "description": "An in-memory MongoDB Data API, primarily useful for integration test suites.",
+  "description": "An in-memory MongoDB Data API, useful for integration test suites.",
   "type": "module",
   "bin": "bin.js",
   "scripts": {
