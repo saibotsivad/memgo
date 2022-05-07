@@ -22,10 +22,10 @@ Change categories are:
 ### Removed
 ### Security
 
-## [0.0.0] - {{TODO_CURRENT_DATE}}
+## [1.0.0](https://github.com/saibotsivad/memgo/compare/v0.0.0...v1.0.0) - 2022-05-06
+Everything is tidy, let's go live. 🎉
+
+## [0.0.0](https://github.com/saibotsivad/memgo/tree/v0.0.0) - 2022-05-06
 ### Added
 - Created the base project from [saibotsivad/init](https://github.com/saibotsivad/init).
-
-[Unreleased]: https://github.com/saibotsivad/memgo/compare/v0.0.0...HEAD
-[0.0.1]: https://github.com/saibotsivad/memgo/compare/v0.0.0...v0.0.1
-[0.0.0]: https://github.com/saibotsivad/memgo/tree/v0.0.0
+- Copied over the core stuff from external project.
